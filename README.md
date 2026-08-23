@@ -1,5 +1,3 @@
-gi# calculator
-
 
 # Calculator — Digital Computer From the Ground Up
 
